@@ -1,0 +1,101 @@
+customer_id,name,email,phone,address,dob,account_open_date
+C1000,Norma Fisher,tammy76@example.com,459.638.2421x9489,"578 Michael Island, New Thomas, VI 68835",1962-05-26,2016-09-23
+C1001,Kimberly Smith,ypage@example.net,+1-909-375-3513x9332,"714 Mann Plaza Suite 839, Seanfurt, MD 75952",1961-02-23,2020-08-11
+C1002,Roberto Johnson,thomas12@example.org,8186684833,"59179 Bruce Gardens Apt. 413, Lauramouth, NE 08652",1951-07-09,2018-02-28
+C1003,Colleen Montoya,johnsoncynthia@example.net,001-516-415-1090,"00869 Mary Cliff Apt. 145, Whitehaven, NH 05662",1985-04-06,2017-05-22
+C1004,Jeanne Green,kmassey@example.org,001-230-922-5841x972,"564 Ann Bridge Suite 150, Dennisfort, MI 80472",1964-04-06,2021-10-12
+C1005,Stephanie Nash,jenniferhughes@example.com,+1-210-893-5233x7696,"027 Jonathon Estate Suite 878, North Troyport, MP 61697",1948-01-25,2022-09-25
+C1006,Zachary Schultz,monroedavid@example.org,(565)603-0089x1319,"76104 Marsh Crescent, Dennishaven, GU 85800",1988-07-24,2021-07-29
+C1007,Christopher York,williamserin@example.net,659-209-7765x82369,"5515 Blake Estates Apt. 945, Haysberg, LA 15560",1977-03-16,2019-10-01
+C1008,Elizabeth Vincent,turnermary@example.com,(611)787-7551x71760,"96111 Kara Circle, Smithfurt, OH 68527",1964-05-24,2023-04-21
+C1009,Rachel Klein,rodneyrichardson@example.com,001-926-535-1108,"3039 Daniel Mount Suite 582, New Tonyaberg, OK 53704",1988-02-11,2022-11-14
+C1010,Kathleen Stark,martha73@example.net,+1-830-655-5082x492,"18013 Billy Bridge Suite 522, Schmitthaven, MS 69943",1978-11-11,2016-03-29
+C1011,Meghan Trujillo,burgessrebecca@example.org,689-767-6993x0024,"6660 Danielle Crossroad Apt. 450, South Robertfort, FM 79401",1993-06-23,2017-01-22
+C1012,Brittany Hatfield,djohnson@example.com,701.572.0099x251,"09795 Tara Station Suite 264, New Michelleborough, AZ 51884",1974-12-05,2021-12-28
+C1013,Joy Clarke,huberrachel@example.org,640.389.9331x8868,"16116 Jessica Burgs Suite 660, Calhounmouth, VA 33607",1950-01-07,2021-09-01
+C1014,Ian Johnson,gregory35@example.org,+1-423-403-1045x093,"4203 Rogers Highway Suite 852, North Amandaport, GA 49861",2005-10-04,2018-03-03
+C1015,Regina Stewart,joelwhite@example.com,(802)690-6112x64862,"75806 Smith Stream, Scottstad, LA 62221",1950-11-14,2018-10-29
+C1016,Destiny Grant,lauragriffin@example.com,(766)923-7582,"3407 Smith Hills, Port Tiffanyport, ND 80344",1955-04-21,2022-11-20
+C1017,Kaitlin Gregory,amysullivan@example.net,8149004689,"4391 Chad Greens Suite 851, Port Frank, MT 38471",1963-11-30,2024-07-07
+C1018,Joseph Clark,jenkinscynthia@example.com,001-944-475-9221x1669,"7637 Neal Island Suite 074, Lake Tyler, FM 81915",1959-05-09,2016-02-08
+C1019,James Haney,mcdanielchristopher@example.net,+1-560-350-1904x43294,"2566 Seth Station Apt. 852, East Sean, WY 51471",1973-10-01,2024-01-15
+C1020,Daniel Gonzalez,brendawilliams@example.com,6313250239,"6708 Carpenter Overpass Suite 735, Bobbyton, GA 46350",1944-12-08,2020-08-07
+C1021,Brenda Buchanan,tarasanders@example.org,635.291.9155x875,"1385 Mary Glen, Larryfurt, KS 63688",1968-01-29,2019-10-03
+C1022,Timothy Jones,csimpson@example.org,(377)871-1131x26379,"23732 Michael Island Suite 184, Lake Kenneth, NV 67876",1985-10-27,2023-07-14
+C1023,Debbie Hall,mendezjennifer@example.org,001-363-734-0886x0164,"31845 Nathaniel Neck Suite 922, New Williamstad, OR 83707",1946-05-24,2017-11-17
+C1024,Brittney Thompson,taylorjamie@example.com,001-433-923-6599,"PSC 1908, Box 9577, APO AA 02157",1959-08-25,2025-02-13
+C1025,Mary Simpson,tpayne@example.org,529-763-5460x305,"5240 Berry Centers, West Andrew, SC 08538",1946-05-06,2019-10-12
+C1026,Darius Valdez,nicholsonmichael@example.net,(623)976-2542x56606,"6208 Christy Shore, North Mark, MP 23605",1961-06-20,2016-01-17
+C1027,Stephanie Newton,jennifersimmons@example.net,897-229-9045,"1542 Young Knolls, Lake Karen, MA 35869",1999-05-04,2024-01-18
+C1028,Alexis Moreno,andrea08@example.net,+1-240-276-1657,"9438 Hughes Village, Jasonshire, MA 32305",1984-07-23,2024-09-25
+C1029,Heather Hendricks,markburgess@example.org,001-909-825-5445,"29072 Noble Stravenue, Browningview, WA 80744",1957-06-11,2016-11-12
+C1030,Jessica Dodson,alyssabrown@example.net,(691)688-9664,"8885 Lee Tunnel Suite 208, Port Donna, WY 74331",1970-10-24,2021-10-23
+C1031,Andrew Gaines,rachelcox@example.org,+1-535-970-3934x26197,"27166 King Throughway, Chelsealand, ME 04450",1978-03-10,2015-11-10
+C1032,Christina Sanders,orowe@example.net,(409)275-9294x5067,"0131 Williams Ville Apt. 562, Richardberg, PA 19832",1972-03-06,2020-11-17
+C1033,Carla Orozco,tthornton@example.net,3804862591,"5448 Lutz Drives, Tranton, SC 77244",1956-09-18,2024-05-20
+C1034,Peter Meyers,leekrystal@example.net,378.725.2780,"69597 Bass Passage, Vanessaville, DC 42036",2007-08-27,2016-01-22
+C1035,Calvin Morgan,bradleybrewer@example.net,660-692-5160x7599,"2074 Stacy Circles Suite 110, Andrewfurt, RI 91015",1989-02-20,2015-11-26
+C1036,Richard Reese,dalvarez@example.net,(640)281-1551x7028,"82222 Sherry Road Suite 076, East Johnport, MA 22785",1960-11-18,2021-08-29
+C1037,Shawn Ford,paultownsend@example.org,001-206-222-0058,"922 French Manor, Bradleymouth, VT 33001",2007-06-14,2018-01-06
+C1038,Daniel Morales,rickyhopkins@example.org,(763)276-3637x69144,"40956 Amanda Walk Apt. 260, Simonfurt, NE 14239",1993-03-16,2023-07-05
+C1039,Candice Peterson,smoore@example.net,655-425-7803,"6048 Johnson Loop Suite 635, East Daniel, MI 22227",1946-10-19,2022-12-30
+C1040,Julie May,stricklandamy@example.net,(922)732-3082,"PSC 9451, Box 6425, APO AP 66241",1967-04-02,2024-09-27
+C1041,Susan Rollins,jimmy65@example.com,584.366.1220x9981,"1001 Roth Orchard, Danielmouth, MN 77080",1992-01-31,2019-12-28
+C1042,Robin Perez,annawilcox@example.org,001-482-802-8693x76409,"061 Cook Parkways Suite 079, West Marissafort, OH 85040",1971-06-29,2023-09-18
+C1043,David Diaz,melissa27@example.org,576-396-8147,"20298 Adrian Wall Suite 897, South Anitamouth, VI 13284",1991-05-04,2015-10-04
+C1044,Jonathan Joyce,jeffrey75@example.net,711-649-6356x23437,"65873 Chen Knolls, Ramirezfurt, WI 94134",1963-12-09,2017-06-18
+C1045,Eddie Griffin,sarah25@example.com,516.867.8799,"58017 Long Forks Suite 090, Davisborough, VA 43336",1956-10-28,2017-08-05
+C1046,Michael Johnson,smithamanda@example.org,899-331-7308,"66706 Patrick Track, New Stephanietown, OR 45991",1992-07-27,2021-12-03
+C1047,Megan Davidson,kingdakota@example.org,302-392-6395x368,"87727 Anderson Glens Suite 198, Loribury, NH 33068",1968-07-24,2023-11-06
+C1048,Jennifer Griffin,transusan@example.com,663.747.7237,"134 Sophia Drives, Benjaminburgh, WI 61921",1971-03-26,2018-11-11
+C1049,Corey Myers,pam83@example.net,228-589-9629x79397,"300 Dennis Mills Apt. 186, Nicolemouth, NM 90343",1957-09-30,2018-06-13
+C1050,Ryan Robbins,qgonzales@example.com,212.831.2678x350,"968 Cynthia Skyway Apt. 874, Stephensland, CO 79779",1994-05-20,2024-01-20
+C1051,Christina Jensen,larry03@example.net,9986527419,"6853 Walls Cape, West Courtney, OK 64076",1948-12-24,2024-08-22
+C1052,Francisco Daniel,wilsoncatherine@example.org,001-520-216-3044x61545,"70452 Forbes Courts, Mosesland, KS 75278",1951-10-06,2024-07-12
+C1053,Zachary Anderson,meyerkimberly@example.com,783-423-6397,"337 Terrell Harbor Apt. 154, Austintown, LA 15529",1956-01-01,2020-05-09
+C1054,Kayla Reed,gdavis@example.net,(611)397-5243x64000,"8403 Jordan Centers Suite 649, West Stephanie, PW 70335",1977-12-25,2023-04-22
+C1055,Jessica Jackson,halllindsey@example.com,7318412270,"4466 Terry Centers, Lake Olivia, NC 47333",1958-06-14,2019-11-29
+C1056,Robert Mccormick,andreawright@example.org,(536)623-8292,"730 Jackson Parkways, Lewisside, NC 65143",1951-09-07,2017-10-29
+C1057,Kim Nolan,smithjulie@example.org,001-267-246-5641x2933,"737 Carol Pass, Alexanderberg, MI 87906",1969-01-12,2021-11-30
+C1058,Elizabeth May,dennis73@example.net,(857)647-2745x5966,"63482 Lindsey Path, Starkview, NE 40039",1975-09-20,2024-08-18
+C1059,Nicholas Donaldson,bvazquez@example.org,+1-214-203-2925x940,"3675 Miller Meadows, Lake Angelburgh, AL 78341",1980-11-08,2020-04-22
+C1060,Daniel Mccall,luisflynn@example.com,+1-329-898-6930x06902,"052 Werner Shoals, Toddfort, PA 43831",1963-01-07,2016-12-30
+C1061,Paul Villanueva,angelica69@example.com,(629)362-1912x74164,"09021 Cruz Orchard, West Crystalberg, CO 92631",1971-05-09,2025-07-11
+C1062,Courtney Clark,williamskimberly@example.org,+1-446-568-0782,"97444 Richard Branch, New Kimland, FM 01845",1988-03-10,2020-07-06
+C1063,Charles Gill,shawnawilson@example.com,6529591153,"8811 Gonzales Trail Suite 878, Stonebury, FL 84948",1971-11-13,2024-05-15
+C1064,Shawn Thomas,cruzannette@example.net,784-994-5769,"065 Sparks Avenue, New Chase, DE 48734",1974-04-16,2019-10-27
+C1065,Kelly Rodriguez,hudsonbernard@example.com,(754)477-6037,"PSC 7826, Box 4973, APO AE 93193",1975-08-02,2018-08-15
+C1066,Emily Murphy,obradley@example.org,966.535.6433x43895,"3248 Amanda Station, South Timothyburgh, PA 47416",1985-11-10,2019-11-28
+C1067,Ann Crawford,kellyhill@example.org,(665)600-3392x871,"6010 Bird Track Suite 987, Amychester, PR 63640",1970-03-11,2019-06-03
+C1068,Ann Miller,hunterandres@example.net,001-385-691-9300,"299 Joshua Estate Apt. 932, East Jonathan, WY 40279",1954-07-23,2020-04-14
+C1069,Chad Bridges,ldickson@example.org,001-605-587-2419,"90622 Ryan Parkway, Stefanieburgh, NH 41999",1989-11-13,2023-03-15
+C1070,Matthew Gross,craighenry@example.com,+1-894-334-8612,"USS Black, FPO AE 94310",2003-11-23,2023-07-06
+C1071,Dennis Gross,kathleenthompson@example.org,475-268-0566x828,"963 Harris Corners Apt. 861, Curryburgh, AZ 26913",1960-07-12,2019-10-07
+C1072,James Jones,aliciarobinson@example.org,818.829.3898,"790 Reed Trafficway Apt. 037, New Evelyn, GU 01420",1954-06-05,2019-09-12
+C1073,Brandon Hill,philip41@example.net,575-299-1326,"521 Flores Stream, West Rebeccaborough, ID 39192",1980-02-27,2022-11-18
+C1074,Nancy Foster,scottroberts@example.net,(883)697-5292,"27862 Kent Mountains, Lake Michaelville, CT 65286",1961-05-22,2024-07-10
+C1075,Scott Sutton,owensjordan@example.net,586-423-1982x730,"299 Carlos Harbors, West Cindyshire, WI 34313",1984-01-11,2022-10-24
+C1076,Michelle Thomas DVM,reedjonathan@example.com,(204)633-1923x8375,"598 Bradshaw Hills, South Deborahview, IA 85341",1962-06-28,2020-11-18
+C1077,Charles Johnson,xwilliams@example.com,596.979.9832x04164,"629 Adams Well Apt. 035, Jeanetteville, TN 04590",1974-05-07,2020-12-12
+C1078,Nathan Lee,ichan@example.net,835-777-2566,"721 Stefanie Pine, Penabury, MO 84003",1993-09-22,2017-04-25
+C1079,Michael Phillips,kevinrose@example.net,+1-650-420-1557x33597,"USCGC Smith, FPO AE 14543",1967-02-07,2019-03-16
+C1080,Brian Osborne,garciachristina@example.net,4319272274,"601 Kyle Roads, Clarkfurt, IN 61202",1988-07-28,2024-04-03
+C1081,Isabel Coleman,chapmantara@example.net,645.485.7745,"5057 Lowe Brooks, South Jessicaburgh, ID 51445",1992-04-22,2021-04-25
+C1082,Amanda Gutierrez,cconner@example.com,8396317218,"87503 Decker Way Suite 784, North Christopherfurt, SD 54569",1970-08-06,2019-08-15
+C1083,Wesley Spencer,rreid@example.com,(766)669-9478,"0677 Jones Forks, Jerrytown, RI 44915",1955-04-16,2018-10-14
+C1084,Kathleen Jones,thompsoncassandra@example.org,+1-420-986-6246x7480,"174 Turner Bypass, Martinmouth, CA 08345",1996-09-30,2020-09-01
+C1085,Timothy Schultz,nicholasjones@example.org,2154044000,"1920 Laura Club, New Kimberlyville, ID 13622",1977-10-30,2023-01-13
+C1086,John Heath,ambertaylor@example.com,001-768-821-8083x1658,"PSC 3912, Box 9654, APO AA 66745",1970-02-06,2016-01-11
+C1087,Charles Yang,denisetaylor@example.org,972.444.2025x5318,"19356 Susan Trail Suite 850, Jesseton, WV 55699",1981-03-22,2020-04-07
+C1088,Caitlin Green,jennifer56@example.org,001-343-824-5812x73999,"0092 Jackson Lodge, New Amy, ID 04639",1988-06-04,2024-11-28
+C1089,Stephanie Gibson,vwatkins@example.com,(910)865-2736x903,"66734 Jacqueline Estate, West Rhondaburgh, CT 20715",1961-09-15,2018-09-02
+C1090,Joseph Newman,amanda67@example.com,249-954-4469,"USNS Henderson, FPO AP 86501",1996-06-24,2022-08-03
+C1091,Traci Perry,cranejoshua@example.org,9764858787,"534 Jones Court, Port Catherine, SC 17371",1978-07-02,2021-01-15
+C1092,Shannon Hendrix,qpatton@example.com,483-405-8468x91428,"00771 Donald Mountain Apt. 941, Michaelberg, FM 61831",2006-10-16,2021-12-22
+C1093,Brian Garcia,torreskyle@example.net,(920)876-6316x476,"3412 Morris Highway, Cooperburgh, NH 17219",1992-08-22,2021-06-14
+C1094,Kathleen Davis,ldaniel@example.org,+1-652-445-1165x54503,"3184 Brent Summit, South Stevenberg, VT 18937",1948-08-07,2017-08-05
+C1095,Bryan Powell,campbellbarbara@example.org,846.628.7452,"13857 Martin Manors, Stephenton, DC 46263",1956-08-09,2024-03-02
+C1096,David Martinez,xhamilton@example.org,752-933-9857,"PSC 4409, Box 9243, APO AP 72385",1992-12-05,2017-07-18
+C1097,Christopher Williams,uberg@example.net,335-272-8072x01802,"310 Jessica Tunnel Suite 689, Paulaborough, MO 94836",1947-05-16,2019-06-19
+C1098,Stacey Rojas,mhernandez@example.org,001-925-744-7586,"8565 Braun Throughway Suite 037, Richardberg, PW 23948",1977-02-25,2018-11-28
+C1099,Carolyn Everett,christianhuynh@example.net,329.327.1736x21080,"93551 Nicholas Crossroad, Ashleyhaven, IL 80092",1959-11-26,2025-05-15

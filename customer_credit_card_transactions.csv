@@ -1,0 +1,501 @@
+transaction_id,customer_id,date,merchant,category,amount,description
+CC20000,C1040,2024-12-28,"Adams, Mason and Bauer",groceries,393.85,Everybody always response long star street line.
+CC20001,C1058,2024-09-11,"Moreno, Rios and Alvarez",clothing,485.06,Every also will because could event subject.
+CC20002,C1058,2024-05-05,"Medina, Thompson and Sullivan",clothing,327.19,Message age hand conference I.
+CC20003,C1042,2023-10-19,Santiago Ltd,utilities,278.4,Southern other but certainly worker receive.
+CC20004,C1098,2025-01-29,Harrison-Le,clothing,123.76,Vote economic gas five world office score.
+CC20005,C1010,2024-05-19,Bruce-Daniels,clothing,693.33,Central then prepare fight crime water.
+CC20006,C1099,2024-10-12,Walker-Smith,groceries,216.92,Special factor spend.
+CC20007,C1077,2025-06-27,Archer and Sons,electronics,1144.85,Former them skill middle theory ok exactly.
+CC20008,C1042,2023-12-17,Hogan PLC,restaurants,1029.67,Then soldier run what general personal.
+CC20009,C1081,2025-08-06,"Sanchez, Smith and Gardner",groceries,280.86,Second reach leg bring accept employee.
+CC20010,C1002,2023-11-30,Jones-Crosby,travel,1470.17,House her move a in politics trouble.
+CC20011,C1002,2024-05-28,Brown PLC,electronics,1773.02,Government so yet fact.
+CC20012,C1024,2024-12-24,Delgado-Edwards,groceries,833.53,Present guy community already leader.
+CC20013,C1007,2024-08-03,Wood-Smith,utilities,629.4,Particular more break work writer.
+CC20014,C1049,2025-06-22,Jackson-Barnes,groceries,1204.89,Write pattern concern toward fast spring produce general.
+CC20015,C1091,2024-12-17,Bennett-Burke,travel,722.19,Information since both very along son make time.
+CC20016,C1009,2025-04-28,Romero-Hawkins,restaurants,117.47,Window send the live economic.
+CC20017,C1045,2023-11-27,Hernandez LLC,clothing,1804.66,Campaign your among now offer maybe.
+CC20018,C1096,2024-01-09,Marshall-Charles,electronics,1347.91,Life picture surface TV it.
+CC20019,C1072,2023-10-23,Harrison-Torres,restaurants,830.33,Indicate part language.
+CC20020,C1003,2025-08-09,"Vargas, Hays and Mcdaniel",restaurants,1606.78,Painting camera film leave military daughter.
+CC20021,C1024,2023-11-08,Taylor-Wilson,restaurants,137.54,Voice region until American need outside.
+CC20022,C1012,2025-02-09,"Barnes, Harris and Smith",groceries,62.11,Option a police team better court name among.
+CC20023,C1002,2024-06-30,"Lane, Sanchez and Rosales",travel,813.49,Get newspaper ready country.
+CC20024,C1088,2025-04-08,"Booth, Jenkins and Holland",utilities,1795.03,Send affect economy be later everybody.
+CC20025,C1041,2025-07-19,Williams-Gill,restaurants,1583.6,People culture ability.
+CC20026,C1095,2023-11-08,Wilcox Ltd,utilities,997.1,Town recent blue politics firm phone.
+CC20027,C1010,2024-01-20,"Hogan, Bush and Warren",groceries,1075.87,Behavior north discuss respond today method know not.
+CC20028,C1051,2025-01-21,Russo-Cooper,electronics,65.32,Nation arm their he wish.
+CC20029,C1066,2024-03-12,Stone-Crane,groceries,1674.83,Nature door difference become push ball.
+CC20030,C1010,2023-11-18,Porter-Fuller,electronics,723.51,Marriage grow another car behavior game.
+CC20031,C1012,2024-07-19,Johnson-Morse,restaurants,1936.61,Particularly ground source dream ok war.
+CC20032,C1019,2023-09-13,"Lane, Mejia and Stephens",clothing,1254.81,Thing bed concern worker drive.
+CC20033,C1036,2025-05-01,"Turner, Mendez and Austin",groceries,11.45,Manage player administration.
+CC20034,C1043,2024-01-01,"Brewer, Williams and Fletcher",travel,1889.38,Create chair they always.
+CC20035,C1089,2024-01-08,"Osborn, Johnson and Cherry",travel,329.51,Mrs above husband point.
+CC20036,C1099,2025-03-27,"Tran, Guerrero and Cortez",travel,1283.84,Reason act left hundred site should keep.
+CC20037,C1031,2025-03-22,Tucker and Sons,clothing,663.26,Create air six think.
+CC20038,C1003,2025-06-22,Short Group,restaurants,1917.57,His participant nation institution.
+CC20039,C1080,2024-01-18,Arnold-Bartlett,utilities,802.23,Station visit indeed school because until across.
+CC20040,C1028,2024-10-27,Phillips-Price,travel,1274.99,Play green understand media each toward.
+CC20041,C1042,2024-02-28,Parker LLC,travel,1932.79,Join example agency career marriage no.
+CC20042,C1045,2024-11-05,"Simpson, Mckay and Brown",travel,335.61,Line and recently pay reach direction baby.
+CC20043,C1053,2024-03-08,Coleman Ltd,restaurants,732.94,Size center pretty else pass.
+CC20044,C1072,2025-08-01,"Stevens, Ramirez and Mcdaniel",travel,779.15,Natural indicate early quality meet.
+CC20045,C1098,2023-12-17,Lawrence-Walker,groceries,332.66,Sure seat model report manage.
+CC20046,C1074,2024-10-25,Johnson Group,groceries,1377.01,Key hear remember similar rise employee.
+CC20047,C1091,2024-10-26,Bradford-Morgan,travel,1999.76,About student half buy successful.
+CC20048,C1002,2024-06-04,"Jimenez, Castillo and Diaz",groceries,1649.93,Citizen house each black.
+CC20049,C1065,2025-04-15,Ware and Sons,groceries,85.98,Every others election few mind.
+CC20050,C1099,2025-05-17,George LLC,groceries,1150.27,Work low plan education which important visit.
+CC20051,C1018,2023-10-20,Jones-Decker,travel,1350.45,Poor force again central mean.
+CC20052,C1048,2025-07-18,"Stevens, Fisher and Hunter",groceries,843.29,Change determine send task.
+CC20053,C1072,2023-10-08,Medina Inc,utilities,672.52,Would professional gun describe nature often smile.
+CC20054,C1031,2025-04-13,Parker-Walker,travel,734.41,Point set unit gas personal wish article.
+CC20055,C1027,2025-07-03,"Hayes, Stark and Bennett",clothing,806.77,Travel administration continue.
+CC20056,C1016,2023-10-28,Freeman PLC,restaurants,1136.56,May arrive kind by us analysis collection.
+CC20057,C1044,2025-07-25,Stafford Inc,groceries,868.77,Quickly involve of service drive attack.
+CC20058,C1055,2025-03-26,Webb-Stanley,travel,947.56,Wear fall view energy defense.
+CC20059,C1028,2025-06-30,Hall Inc,restaurants,487.71,Structure follow attention act.
+CC20060,C1061,2024-06-13,Hopkins-Williams,restaurants,1841.63,Quality dark tough subject effect message west.
+CC20061,C1008,2025-06-27,Braun Group,electronics,1995.96,These which sign politics enter enough knowledge.
+CC20062,C1067,2024-07-16,Thornton-Butler,electronics,1089.26,Too trip then music.
+CC20063,C1077,2025-07-24,"Austin, Barnes and Bush",clothing,1561.39,Fish hundred rise.
+CC20064,C1030,2025-02-21,"Reeves, Johnson and Burnett",electronics,90.21,Quickly trouble air easy dark deal.
+CC20065,C1041,2023-10-05,Lucas PLC,restaurants,1928.6,Get myself industry billion.
+CC20066,C1013,2025-08-29,Hutchinson-Hernandez,clothing,1756.5,Own grow computer long account entire.
+CC20067,C1006,2024-10-15,"Payne, Thompson and Long",travel,1429.82,Nor make development low operation training issue.
+CC20068,C1003,2024-04-19,Potts-Campbell,restaurants,1464.69,Behind record above environmental model politics yet yes.
+CC20069,C1050,2025-03-13,Bennett PLC,restaurants,1849.88,Quickly foot star.
+CC20070,C1091,2024-06-10,"Rivera, Lawrence and Brown",restaurants,1212.33,Development true market.
+CC20071,C1020,2024-04-05,Harper-Miller,travel,687.59,Ten bed street.
+CC20072,C1052,2024-03-05,"Hodge, Cherry and Morris",travel,1184.51,Make include brother government.
+CC20073,C1036,2025-05-24,Davis Inc,clothing,233.91,What someone himself history.
+CC20074,C1047,2024-05-08,Boyle-Patel,electronics,293.96,Finally raise staff why college.
+CC20075,C1045,2024-09-27,"Phillips, Garcia and Price",restaurants,1264.24,Ball stop enough decade raise issue.
+CC20076,C1096,2025-04-07,Davis-Sims,groceries,399.43,Really successful during subject fall purpose not.
+CC20077,C1032,2024-08-04,King Inc,travel,1449.68,Heavy movement hear decide support attorney heavy.
+CC20078,C1041,2025-05-04,Gordon PLC,electronics,766.43,Language company sea television.
+CC20079,C1005,2024-01-03,"Smith, Klein and Graham",electronics,1107.36,Court available song.
+CC20080,C1004,2025-07-03,Ho Ltd,utilities,826.99,Least sort rise actually born.
+CC20081,C1048,2024-03-24,Macias Group,utilities,424.27,Truth become build identify seat.
+CC20082,C1017,2025-03-25,"Clark, Collins and Wilson",travel,229.49,Detail tell hospital also billion reality land.
+CC20083,C1045,2024-06-14,Faulkner and Sons,travel,72.14,Staff ball pressure indicate response.
+CC20084,C1073,2025-01-20,Valentine-Kelley,restaurants,932.4,Toward thousand couple image.
+CC20085,C1082,2025-08-21,Harper Inc,utilities,1417.0,Development view seat eye anyone.
+CC20086,C1009,2025-01-02,Long LLC,restaurants,1094.38,Sometimes bill both.
+CC20087,C1070,2023-09-18,Williams-Rivers,travel,346.77,Whatever no century behind successful of why.
+CC20088,C1026,2024-02-09,Young Inc,travel,464.22,Believe save simply some.
+CC20089,C1067,2024-02-12,Gates-Ryan,travel,1639.78,Road resource action home order indicate.
+CC20090,C1045,2024-05-14,Smith and Sons,clothing,1474.4,However way season similar she professional.
+CC20091,C1091,2025-01-17,"Weaver, Williams and Cain",electronics,1371.54,Theory increase concern pressure season.
+CC20092,C1052,2025-08-10,Leonard-Stewart,electronics,1799.44,She eat heart history sort.
+CC20093,C1043,2024-12-05,"Weeks, Carlson and Wright",utilities,1008.11,Account consumer feeling follow meeting.
+CC20094,C1042,2024-12-04,Arellano-Kent,clothing,1393.36,Give easy put customer.
+CC20095,C1048,2025-07-22,Nguyen Ltd,utilities,1490.12,Hear edge picture agency.
+CC20096,C1039,2024-04-04,Gonzales LLC,travel,1762.18,Successful movie organization want build.
+CC20097,C1048,2023-10-23,"Sanchez, Brown and Hoffman",electronics,786.63,Read benefit skin sense stock story.
+CC20098,C1060,2024-05-31,Green Group,clothing,619.26,Each tend serve far glass.
+CC20099,C1052,2024-06-26,Murphy-Dunlap,restaurants,1627.75,Skin enter fight worry cell foot night tell.
+CC20100,C1087,2023-11-25,Rogers-Mendez,travel,303.82,Project family always address successful.
+CC20101,C1074,2024-04-28,Bates-Simmons,clothing,1271.76,Career professor ready politics order indeed.
+CC20102,C1066,2024-06-06,Duncan-Garcia,groceries,1396.72,Really table today yet bit knowledge.
+CC20103,C1082,2024-01-10,Morrison-Carroll,utilities,417.79,Case military turn discover crime.
+CC20104,C1082,2024-04-21,Norton-Vasquez,clothing,1963.63,Our garden family relate matter after year.
+CC20105,C1014,2023-09-17,Bowen Inc,electronics,1380.2,Experience medical present town wonder.
+CC20106,C1078,2025-08-23,Lawrence and Sons,travel,757.95,Enjoy best high represent.
+CC20107,C1004,2025-07-17,West Inc,groceries,239.64,Social clear market deep goal.
+CC20108,C1046,2025-04-29,Hernandez Group,utilities,966.6,Management continue force rather choice.
+CC20109,C1013,2025-05-30,"Jones, Kim and Nichols",utilities,910.73,Use dream poor arm happy interview.
+CC20110,C1074,2024-11-17,"Jones, Day and Bell",utilities,515.23,Continue all buy or.
+CC20111,C1062,2023-11-30,"Moore, Rivera and Evans",travel,1846.24,Study career including control.
+CC20112,C1071,2025-02-23,Williams LLC,clothing,1656.21,Economic experience above education sit.
+CC20113,C1009,2024-12-29,"Smith, Lopez and Duncan",clothing,1842.42,Agency later image meet small road.
+CC20114,C1021,2024-10-12,"Daniel, Gonzales and Davis",groceries,1656.7,Investment cultural responsibility bag.
+CC20115,C1021,2024-05-31,Cruz Group,clothing,823.71,Country wish want amount maybe figure.
+CC20116,C1084,2024-11-21,"Neal, Shah and Brown",travel,881.99,Necessary food owner identify.
+CC20117,C1087,2024-02-27,Rivera Ltd,restaurants,535.61,Concern than establish series development sit.
+CC20118,C1075,2025-05-03,"Osborne, Guerrero and Sullivan",travel,1840.12,Information least imagine including.
+CC20119,C1021,2025-06-14,Clark Inc,restaurants,1134.24,Old writer plan where similar.
+CC20120,C1048,2024-01-21,Jackson-Coleman,groceries,1291.67,Suggest wish travel admit allow reduce everybody especially.
+CC20121,C1051,2024-12-10,Gonzalez-Miller,electronics,473.86,Despite money adult for yard.
+CC20122,C1058,2023-10-21,"Morris, Bishop and Jones",groceries,965.09,Look think off whatever not nor leg.
+CC20123,C1013,2025-04-30,"Aguirre, Stephens and Kelley",electronics,1667.99,Positive although international trouble us lose agency above.
+CC20124,C1062,2025-02-14,"Clark, Bowers and Richards",clothing,1293.53,Number everyone peace can.
+CC20125,C1060,2024-04-10,Schwartz Inc,electronics,370.23,Yourself near receive hear.
+CC20126,C1069,2023-10-16,"Thomas, Mahoney and Bryant",electronics,327.48,Himself feeling evening center.
+CC20127,C1077,2024-11-24,"Thompson, Hubbard and Hicks",travel,919.27,Husband including down head class strong.
+CC20128,C1008,2024-10-27,Joseph Inc,restaurants,792.56,Miss light after table condition join record.
+CC20129,C1052,2023-12-15,Evans-Wagner,clothing,193.56,Clearly country support young capital off tough.
+CC20130,C1061,2024-02-23,Hines-Evans,travel,1630.8,Month audience just really sport.
+CC20131,C1037,2024-01-28,Bell Inc,travel,725.33,End realize fire.
+CC20132,C1012,2025-05-22,Cantu and Sons,travel,1320.29,Image vote account themselves significant international order.
+CC20133,C1007,2024-06-24,"Peters, Williams and Cummings",utilities,282.25,Smile boy ask increase.
+CC20134,C1071,2024-12-19,"Rojas, Hodges and Williams",travel,24.04,Fish reflect price make few likely.
+CC20135,C1051,2023-10-16,Harrell-Smith,clothing,1402.58,Eat price wife despite work.
+CC20136,C1077,2025-02-17,Bowman and Sons,restaurants,1431.09,The station time member color southern contain.
+CC20137,C1013,2024-11-02,"Alvarado, Gonzales and Mccall",restaurants,1123.5,Cultural at care share sit interesting television.
+CC20138,C1099,2024-10-16,"Hood, Dunn and Liu",electronics,1746.45,However effect from program rich away option.
+CC20139,C1087,2023-11-17,Jones-Rogers,groceries,490.96,What record right conference.
+CC20140,C1063,2025-08-01,"Torres, Monroe and Boyd",electronics,556.17,Character court its property trade ready face.
+CC20141,C1001,2025-06-19,Hickman-Morse,restaurants,716.18,Laugh class paper base arm computer garden.
+CC20142,C1065,2024-05-19,Jones Ltd,electronics,192.42,Resource good interview guy as number.
+CC20143,C1039,2024-06-01,"Chaney, Peterson and Murray",clothing,850.36,Network language suffer land lot final safe pull.
+CC20144,C1094,2024-09-14,Henderson Inc,electronics,1927.51,Which impact parent story six degree cultural.
+CC20145,C1097,2025-03-24,"Gutierrez, Burton and Gross",travel,470.94,Same former picture western ability woman.
+CC20146,C1025,2024-06-17,"Ramirez, Jennings and Hall",utilities,1554.72,Official attack better even onto.
+CC20147,C1084,2025-06-10,Roth-Mckinney,electronics,572.97,If guess owner on buy skin.
+CC20148,C1078,2025-08-29,"Hodges, Cook and Cook",travel,1663.99,Peace know draw better.
+CC20149,C1015,2025-02-28,Smith PLC,restaurants,716.57,Green score science door.
+CC20150,C1060,2023-11-06,"Fitzgerald, Castillo and Miller",travel,1315.8,For always follow boy would lose stock support.
+CC20151,C1047,2024-11-24,Hill-Andrews,utilities,1832.56,Drop even program.
+CC20152,C1055,2025-03-25,"Smith, Soto and Simpson",electronics,724.84,Shake agree about.
+CC20153,C1051,2024-01-17,"Ward, Simpson and Spencer",utilities,1986.18,Civil near to where rock spring.
+CC20154,C1013,2024-01-25,Owens-Jones,restaurants,1808.16,Spend agree his performance watch sign than.
+CC20155,C1015,2024-11-29,Rodriguez and Sons,restaurants,316.99,Church nothing by it garden he.
+CC20156,C1031,2024-09-23,"Mays, Brown and Martinez",utilities,382.01,Leader management music others.
+CC20157,C1043,2023-09-15,"Mcintosh, Terry and Barber",restaurants,465.11,Body media discover easy agent professor.
+CC20158,C1087,2025-04-22,Solomon Ltd,restaurants,1950.87,Force course box campaign difference system rate myself.
+CC20159,C1059,2023-11-20,"Anderson, Stanley and Chapman",clothing,928.93,Check condition maintain strategy career various ready.
+CC20160,C1072,2025-02-22,Reed-Jefferson,clothing,449.1,Each once explain very perhaps rock.
+CC20161,C1051,2025-08-26,Shaffer-Mcfarland,clothing,629.3,Quite crime administration majority.
+CC20162,C1029,2024-04-29,"Rubio, Potter and Smith",electronics,1040.66,Road east participant nice home pretty.
+CC20163,C1000,2024-06-28,Thompson LLC,groceries,948.81,Executive nice care scene.
+CC20164,C1050,2024-08-21,Reyes-Huynh,travel,1643.32,Successful south risk tough floor try indeed.
+CC20165,C1055,2025-04-09,Reed-Ruiz,groceries,1155.01,Allow example model town few.
+CC20166,C1005,2024-09-17,Gilbert and Sons,restaurants,196.02,Particular bit economic.
+CC20167,C1025,2024-04-20,Collins Ltd,utilities,660.36,Information as receive difficult yard age.
+CC20168,C1014,2025-05-31,"Dixon, Adams and Hernandez",travel,1596.45,Down sit base though less.
+CC20169,C1046,2023-09-20,Avila-Avila,groceries,475.13,Week possible theory let pattern part.
+CC20170,C1005,2025-04-18,Huerta Group,groceries,771.52,Several president yard mission suggest.
+CC20171,C1000,2025-05-02,Munoz Group,travel,241.82,Religious herself bill impact ask floor.
+CC20172,C1077,2024-04-29,"Martin, Anderson and Johnson",clothing,1870.54,Recent prevent truth family along community whose player.
+CC20173,C1025,2024-07-23,"Buchanan, Day and Kennedy",groceries,1484.71,Product popular scientist any.
+CC20174,C1025,2025-08-18,Schmitt Group,groceries,1045.24,Significant energy reduce find beat lay.
+CC20175,C1079,2025-01-06,Roberts and Sons,restaurants,142.89,Hit doctor both change.
+CC20176,C1022,2024-01-08,Brooks-Carroll,travel,461.63,Administration reflect history talk.
+CC20177,C1053,2025-06-25,King-Murphy,restaurants,954.62,Special night debate say professional within allow.
+CC20178,C1000,2024-03-14,"Lucas, Decker and Campos",restaurants,428.11,Pressure memory pay already agree until thousand member.
+CC20179,C1097,2024-07-18,Reed and Sons,groceries,1235.36,Simply somebody along could carry especially just.
+CC20180,C1034,2024-01-25,Woods-Nelson,groceries,1169.79,Suggest possible whom pick very.
+CC20181,C1090,2025-05-21,"Jacobson, Watson and Davis",electronics,1655.89,Turn factor detail thousand.
+CC20182,C1086,2024-12-04,"Lee, Porter and Weber",restaurants,1285.09,Environment edge name down of.
+CC20183,C1076,2024-12-28,"Salinas, Bates and Hines",clothing,193.18,Easy popular away war word if light.
+CC20184,C1013,2023-09-29,Dawson-Walker,utilities,215.94,Music resource position do if suddenly drop use.
+CC20185,C1003,2025-05-20,Hicks PLC,utilities,292.38,Reduce his science good major step along.
+CC20186,C1098,2024-09-23,Mccormick Inc,utilities,280.45,Middle camera program one region.
+CC20187,C1026,2025-01-27,"Daniels, Manning and Farley",clothing,1951.98,American case power teacher member simple.
+CC20188,C1040,2024-10-14,Andrews-Riley,travel,848.13,Big list want degree.
+CC20189,C1064,2025-04-07,Davis PLC,groceries,1123.6,Might couple occur to such true.
+CC20190,C1088,2024-03-28,Manning-Ingram,restaurants,257.85,Item never eight court.
+CC20191,C1057,2023-12-11,Banks Ltd,restaurants,365.57,Visit rather she trade federal answer kitchen.
+CC20192,C1070,2024-06-02,"Sanchez, Smith and Anderson",electronics,266.47,Go commercial court hope.
+CC20193,C1032,2024-05-12,Johnston-Bruce,restaurants,166.31,Themselves purpose seat water.
+CC20194,C1064,2024-11-16,"Cameron, Hernandez and Melton",electronics,1641.98,Light wall matter.
+CC20195,C1029,2024-02-24,"Murray, Yang and Lowery",restaurants,504.46,Its tax force order discover exactly.
+CC20196,C1061,2025-04-11,"Small, Smith and Velasquez",restaurants,57.59,Win purpose case well though seat.
+CC20197,C1092,2024-10-02,"Rhodes, Andrews and Wagner",groceries,1109.4,Child image among production.
+CC20198,C1097,2024-11-28,James-Thompson,restaurants,455.73,Government pattern politics research too sell hear.
+CC20199,C1030,2024-12-22,Mills-Wilkins,electronics,959.69,Situation full north impact expert.
+CC20200,C1018,2024-08-20,"Perry, Robbins and Young",travel,887.41,See seek huge today.
+CC20201,C1046,2024-11-15,"Mcclain, Wells and Brandt",utilities,977.51,Finally turn mean power dog.
+CC20202,C1019,2025-03-25,"Turner, George and Medina",clothing,1372.15,However industry buy score general behind staff.
+CC20203,C1024,2024-02-18,Swanson-Larson,electronics,1866.21,Police important add.
+CC20204,C1080,2024-06-18,Ellis LLC,utilities,254.28,Forward huge add half up.
+CC20205,C1007,2025-08-13,Nguyen-Roberts,travel,692.19,Team number wife as from south detail include.
+CC20206,C1042,2024-08-07,Mills-Taylor,clothing,1612.28,Within PM really effect.
+CC20207,C1098,2024-02-02,"Bailey, Campbell and Jenkins",restaurants,786.69,Beautiful study image education career control discussion.
+CC20208,C1024,2024-03-21,Hoffman Group,restaurants,997.24,Party skin single at right.
+CC20209,C1021,2025-07-31,"Martin, Bates and Ortega",restaurants,103.8,Determine what institution others home job bar exist.
+CC20210,C1098,2025-06-24,Hayes Ltd,electronics,1776.46,Least watch whether operation necessary.
+CC20211,C1087,2025-05-12,Jackson-Serrano,clothing,383.41,Stand bill report.
+CC20212,C1041,2024-01-10,Parks Group,travel,1043.23,Mr something have mean once oil least.
+CC20213,C1069,2024-05-08,"Ramirez, Singh and Mullins",utilities,1704.12,Former teach class fire perhaps join result project.
+CC20214,C1074,2025-01-18,Kennedy Inc,restaurants,312.78,Evidence any name measure among memory.
+CC20215,C1088,2025-04-20,"Hudson, Newton and Hill",clothing,991.95,Rest raise nor your education century toward.
+CC20216,C1084,2024-08-16,Burke-Evans,clothing,1858.32,Business community any eat also her cultural.
+CC20217,C1076,2024-09-26,Roberts PLC,restaurants,75.48,Parent skin past if race town town.
+CC20218,C1062,2025-01-21,Knapp Group,clothing,1688.62,Draw find action with try question manager pass.
+CC20219,C1071,2023-10-17,Lopez Inc,utilities,400.82,Animal change fund agreement relate decision certainly.
+CC20220,C1005,2023-11-21,Kelly Inc,groceries,277.0,Poor out event.
+CC20221,C1056,2025-06-02,Graham-Russo,utilities,1223.85,Central billion past deep network control.
+CC20222,C1084,2025-05-19,"Rhodes, Monroe and Thomas",utilities,227.02,Whether past couple degree community.
+CC20223,C1096,2025-02-26,"Miranda, Phillips and Robinson",clothing,856.8,Card culture help official.
+CC20224,C1082,2024-08-23,Simmons Ltd,utilities,1976.85,Play have whole building newspaper candidate natural.
+CC20225,C1087,2024-08-22,"Nelson, Thornton and Brown",electronics,991.93,Former organization could girl improve decade soon pressure.
+CC20226,C1024,2024-12-12,Sanders-Thomas,travel,751.55,Down final add investment necessary.
+CC20227,C1045,2023-11-22,"Peterson, Williams and Roberts",utilities,881.91,Country different prepare wait movie.
+CC20228,C1056,2023-09-16,Kent and Sons,utilities,641.88,Huge research item life song.
+CC20229,C1059,2025-05-12,Meyer Ltd,groceries,301.7,Peace should cost doctor would.
+CC20230,C1096,2024-10-31,Chavez-Johnson,groceries,1505.77,Onto would behind may.
+CC20231,C1050,2024-09-25,Price-Nelson,restaurants,1418.43,Current nor many product yet television.
+CC20232,C1026,2025-07-05,Rose-Ramirez,electronics,1411.39,Care method wide scene upon wonder art station.
+CC20233,C1002,2024-09-03,Robinson-Cole,restaurants,422.57,Reach write certain wide.
+CC20234,C1052,2024-05-30,"Morgan, Simpson and Lee",clothing,1143.53,Player old trouble individual.
+CC20235,C1052,2025-02-26,Charles Inc,clothing,428.83,Water Democrat owner authority house never.
+CC20236,C1000,2023-09-22,Romero LLC,utilities,281.4,Nearly lose physical administration culture.
+CC20237,C1082,2024-05-28,White PLC,restaurants,624.18,Protect style others response fly trouble Republican.
+CC20238,C1069,2025-01-25,Peterson-Frazier,clothing,141.43,Happy whose daughter purpose allow half indicate present.
+CC20239,C1077,2025-01-18,"Cameron, Benitez and Cortez",utilities,990.55,Political natural road last.
+CC20240,C1001,2025-04-24,"Gomez, Thompson and Johnson",travel,844.49,Remain so expert southern ball.
+CC20241,C1096,2024-08-21,Richmond PLC,electronics,631.05,Wife attack memory staff.
+CC20242,C1095,2024-03-29,Mack-Clark,groceries,1537.05,Bar so provide old clearly administration style.
+CC20243,C1030,2024-01-25,Lopez-Berry,clothing,1936.27,Sell our for force mention opportunity rock might.
+CC20244,C1003,2025-04-11,"Reeves, Stewart and Bass",clothing,1728.57,Hospital lead will with.
+CC20245,C1065,2024-03-21,Newton Ltd,electronics,315.23,Us fill analysis hope safe picture.
+CC20246,C1033,2024-04-28,Hunter Inc,groceries,1191.1,Win goal thousand enjoy from tonight up popular.
+CC20247,C1035,2024-12-06,Davis Ltd,travel,771.61,Attorney off human eat guess black past.
+CC20248,C1095,2024-10-07,"Rivera, Murphy and Coleman",clothing,1855.53,Director and support that ahead suffer.
+CC20249,C1029,2025-01-27,Fleming-Robles,clothing,535.13,Boy some away production development.
+CC20250,C1011,2023-10-04,"Rowe, Gallagher and Patrick",groceries,318.02,Law office the design east.
+CC20251,C1080,2025-02-11,Gamble Inc,clothing,1131.49,Citizen break save society least.
+CC20252,C1008,2025-07-06,Conner and Sons,clothing,964.09,Employee per name tell war.
+CC20253,C1040,2024-01-20,Brown and Sons,restaurants,1461.03,Price popular buy have couple environment citizen.
+CC20254,C1003,2025-05-04,Jones-Holder,groceries,874.16,Quite all house agree until cut put.
+CC20255,C1085,2025-08-11,Moore Ltd,travel,1525.66,Business our view herself option end song.
+CC20256,C1003,2024-12-04,"Brewer, Daniels and Graham",groceries,1413.94,Safe sell present community direction today best.
+CC20257,C1031,2025-05-06,"Stewart, Jackson and Choi",groceries,1262.35,Audience long structure computer police return.
+CC20258,C1033,2024-03-01,"White, Howell and Barker",restaurants,239.7,Win form great doctor.
+CC20259,C1037,2024-01-15,"Petersen, Lawson and Davis",electronics,1236.19,Computer subject firm after participant.
+CC20260,C1081,2025-05-18,Potts LLC,travel,1492.66,Light cost eat after piece news Mrs investment.
+CC20261,C1069,2024-04-02,"Cortez, Johnson and Smith",clothing,128.62,Recent hotel population husband impact particular central.
+CC20262,C1065,2025-04-16,Richardson-Jones,clothing,37.77,Run available summer page.
+CC20263,C1063,2024-02-28,"Gray, Kaiser and Stein",groceries,1277.94,Sort heavy degree wonder make.
+CC20264,C1033,2025-03-22,Lopez and Sons,electronics,283.96,Help area piece.
+CC20265,C1012,2025-06-08,Ruiz and Sons,clothing,1126.87,Office spring wear let throw election line.
+CC20266,C1097,2024-10-01,Warren-Clark,groceries,510.53,Task mention author risk million international he mind.
+CC20267,C1013,2023-10-18,Ramos Group,clothing,159.41,Story the partner positive single produce almost.
+CC20268,C1075,2023-12-27,"Cowan, Phillips and Nguyen",travel,975.69,Site class class at former wife.
+CC20269,C1066,2024-09-05,"Braun, Fitzgerald and Yoder",travel,701.17,Realize class accept main doctor ability security.
+CC20270,C1071,2024-02-03,Robles-Leblanc,utilities,441.76,May recent cover debate decade table visit.
+CC20271,C1022,2023-09-04,Davis-Reynolds,utilities,1330.09,Foreign pass culture sound media through western understand.
+CC20272,C1029,2024-04-03,Evans Group,restaurants,410.8,Miss hospital ball.
+CC20273,C1089,2024-03-12,Moore PLC,utilities,883.58,Discussion I investment goal pretty fall.
+CC20274,C1020,2024-01-08,Lin Inc,electronics,1444.31,Later doctor nothing chance community special.
+CC20275,C1044,2025-01-15,"Hall, Ortega and Allen",clothing,1706.02,Into arm relate.
+CC20276,C1027,2024-09-27,Walton Ltd,restaurants,1658.16,Entire PM able partner.
+CC20277,C1016,2023-09-09,West-Gibson,electronics,1126.58,Hear wide their south.
+CC20278,C1099,2023-11-19,Henderson Ltd,groceries,175.73,State certainly skill white.
+CC20279,C1041,2025-01-08,Smith PLC,electronics,1745.73,Win not executive road us.
+CC20280,C1041,2023-11-02,Sanchez-Clark,groceries,178.29,Again season enjoy than occur occur.
+CC20281,C1001,2025-08-09,Garcia-Hamilton,electronics,1608.66,Mr forget involve well interest.
+CC20282,C1021,2024-10-01,"Obrien, Mejia and Brown",utilities,557.86,Expert subject vote final walk.
+CC20283,C1025,2025-02-15,Coleman and Sons,clothing,1113.8,None many house often police.
+CC20284,C1057,2025-03-11,Manning Inc,groceries,835.09,Should oil its mission claim improve value per.
+CC20285,C1068,2024-03-26,Baker Ltd,restaurants,254.19,Significant form left land rate consider.
+CC20286,C1075,2025-03-10,House-Schroeder,restaurants,1993.45,Control offer lot travel that.
+CC20287,C1022,2025-04-15,"Smith, Moore and Patel",electronics,489.67,Line page car image under miss Mr.
+CC20288,C1055,2024-03-18,"Wagner, Martin and Murphy",utilities,1400.48,Key positive through yard.
+CC20289,C1004,2024-06-15,Stewart Ltd,groceries,1672.64,Young collection reduce industry.
+CC20290,C1081,2024-07-30,Simmons and Sons,electronics,161.59,Baby foot information chair difficult measure.
+CC20291,C1084,2024-02-05,Tanner and Sons,electronics,640.68,About region industry hot member itself.
+CC20292,C1070,2024-08-18,Baker-Stanton,utilities,1958.68,Near discuss pressure computer him window very.
+CC20293,C1006,2024-02-08,Moss-Price,utilities,505.14,Clearly so clear born.
+CC20294,C1088,2025-08-13,Reed-Thompson,clothing,288.64,Key daughter idea heart.
+CC20295,C1076,2023-12-10,"Black, Gray and Lopez",groceries,1574.05,Join ahead church responsibility these star boy.
+CC20296,C1053,2024-10-21,"Buchanan, King and Black",electronics,1169.03,Few catch movie young air seven might opportunity.
+CC20297,C1032,2024-10-04,Hall-Robbins,electronics,1821.95,Similar bed option half whose model offer.
+CC20298,C1068,2025-07-21,Young Group,restaurants,1779.87,Year already partner smile finally wear.
+CC20299,C1090,2024-03-11,"Flores, Powell and Jones",groceries,853.07,Recently site bed foot opportunity.
+CC20300,C1021,2024-10-21,Delgado-Mcdonald,clothing,112.06,Since any cause computer throughout able how.
+CC20301,C1090,2024-07-19,"Cardenas, Schmidt and Reed",restaurants,773.56,Morning movement stay skill cell local society Democrat.
+CC20302,C1030,2024-06-23,"Hill, Benitez and Bowen",groceries,623.51,Prevent management before.
+CC20303,C1023,2023-09-22,"Perkins, Brady and Martin",travel,1920.99,Forward suggest happen soldier human they.
+CC20304,C1001,2023-10-15,Flores-Gross,electronics,1055.71,May race live near center your check if.
+CC20305,C1015,2023-12-01,Watkins-Smith,clothing,500.6,Billion region happen.
+CC20306,C1036,2024-09-30,Williams-Mcguire,electronics,814.39,Event organization top through technology thing.
+CC20307,C1060,2025-03-20,Peck LLC,utilities,1874.21,Get boy break present authority son will rate.
+CC20308,C1007,2025-08-09,Leon Group,travel,1421.25,Include explain building read.
+CC20309,C1067,2024-12-16,"Sutton, Harrington and Prince",electronics,412.9,Type soldier director give.
+CC20310,C1019,2025-08-18,Young Group,travel,1599.87,Sign know laugh laugh administration main.
+CC20311,C1018,2025-02-01,"Roberts, Greene and Craig",travel,1107.84,Place I item organization arrive.
+CC20312,C1032,2024-08-12,"White, Wright and Baker",clothing,64.23,Quickly piece value education student line.
+CC20313,C1029,2025-08-09,"Mendoza, Norris and Morse",utilities,840.57,These technology size reflect administration adult.
+CC20314,C1090,2025-06-11,Robinson PLC,travel,494.26,Such believe middle in.
+CC20315,C1071,2024-06-14,Watson-Stevens,travel,1763.32,Alone agent matter design prevent memory.
+CC20316,C1074,2023-12-14,Long-Hernandez,utilities,344.32,Check country outside create performance.
+CC20317,C1031,2025-06-19,"Herrera, Smith and Malone",clothing,1975.37,Listen poor draw century process.
+CC20318,C1038,2025-05-28,Watson LLC,utilities,1486.55,Study window activity born alone.
+CC20319,C1092,2023-10-18,Crane and Sons,restaurants,1582.06,Base establish people treatment this three.
+CC20320,C1025,2025-04-20,Gibbs and Sons,groceries,829.96,Live center friend job.
+CC20321,C1048,2025-02-16,"May, Bryant and Nguyen",clothing,781.93,Ready meeting actually top one couple.
+CC20322,C1049,2024-06-27,Anderson Inc,clothing,1057.0,Side image leg.
+CC20323,C1013,2025-02-12,Ortiz Group,travel,1713.05,Hit imagine reveal after.
+CC20324,C1068,2024-02-21,Brewer Ltd,groceries,1799.25,Them authority attorney audience.
+CC20325,C1010,2023-10-05,Hoffman LLC,groceries,1923.52,Listen deal dinner paper.
+CC20326,C1031,2024-06-10,"Jones, Levine and Tate",utilities,797.78,Mean born by easy finally contain list.
+CC20327,C1086,2024-02-13,"Simpson, Wade and Aguirre",electronics,1969.52,Various south certain news particularly system.
+CC20328,C1044,2025-04-23,Walker LLC,utilities,798.63,People figure cultural view.
+CC20329,C1092,2025-07-31,Miller Ltd,groceries,1786.13,Yes security add service activity travel will.
+CC20330,C1020,2023-09-23,Barrett-Jackson,clothing,492.91,Number brother necessary can.
+CC20331,C1026,2024-10-15,"Erickson, Vega and Dyer",groceries,1525.6,Fear list she.
+CC20332,C1006,2025-07-18,Blevins-Ward,clothing,1620.12,West player bar military manage company.
+CC20333,C1088,2024-10-26,Garcia Group,restaurants,505.49,Age young current education.
+CC20334,C1090,2024-05-01,Wells Ltd,utilities,277.63,Executive stage hope action share make.
+CC20335,C1080,2025-04-20,Williams Group,clothing,585.42,Officer trouble measure value.
+CC20336,C1076,2024-11-20,Brooks-Clark,travel,708.89,Significant again former.
+CC20337,C1045,2024-05-02,"Perez, Dunn and Morgan",electronics,1661.09,Character opportunity particular describe.
+CC20338,C1038,2024-06-21,Yu-Campos,clothing,1286.9,Significant ability always help watch oil.
+CC20339,C1032,2024-06-26,"Monroe, Robertson and Francis",travel,54.78,Clear dog fast remain wrong so list.
+CC20340,C1093,2025-05-13,Mccarty-Baker,travel,1221.04,Into begin morning enough tree behavior.
+CC20341,C1043,2025-06-23,Montgomery-Bailey,restaurants,609.83,Nation fall very it eat likely town.
+CC20342,C1017,2025-08-22,Crawford-Jackson,restaurants,1639.26,Family friend total find paper dinner.
+CC20343,C1089,2024-07-10,Young Inc,electronics,704.51,Attorney perform bag.
+CC20344,C1081,2024-09-19,"Potter, Wolfe and Huerta",clothing,767.6,By can this will right fight people open.
+CC20345,C1074,2025-05-26,"Mccoy, Banks and Miller",restaurants,1394.12,Boy her environmental nation important decide notice.
+CC20346,C1064,2025-01-07,Silva-Lynch,electronics,1352.42,Night positive young how industry.
+CC20347,C1096,2023-11-11,Rose-Jones,clothing,1688.16,Agency class campaign such bag require.
+CC20348,C1024,2024-06-22,Swanson-Henson,restaurants,440.61,Five change customer participant hope likely service.
+CC20349,C1065,2025-06-02,Martinez-Park,travel,1024.22,Feeling adult buy adult enter need fly north.
+CC20350,C1076,2024-10-25,Garcia Group,clothing,1515.61,Support doctor above national experience soon tree.
+CC20351,C1068,2024-07-09,Gonzalez PLC,clothing,1674.03,Suffer pattern once impact agreement according mother.
+CC20352,C1082,2025-02-03,"Rios, Hudson and Wallace",restaurants,1834.97,Different include forward.
+CC20353,C1033,2024-11-21,Poole-Mcdonald,restaurants,610.29,Drug itself prove enjoy someone him source.
+CC20354,C1083,2024-05-17,Burgess Ltd,clothing,113.79,Walk letter amount difficult show.
+CC20355,C1093,2025-08-18,"Lewis, Brown and Smith",travel,1936.78,Identify close now yet thing century.
+CC20356,C1058,2024-01-26,Cross Inc,utilities,146.86,Media network around.
+CC20357,C1025,2023-10-08,"French, Nelson and Manning",clothing,215.4,Affect pull thing consider region find phone itself.
+CC20358,C1032,2025-07-19,Smith-Hall,groceries,1652.67,Clearly leave although nearly maintain evidence alone.
+CC20359,C1027,2024-04-23,"Munoz, Schneider and Lopez",travel,1240.13,Least sort sometimes require finally.
+CC20360,C1084,2025-08-11,"Russell, Thompson and Mahoney",electronics,1222.7,Suddenly major who.
+CC20361,C1034,2024-04-22,Willis and Sons,groceries,1352.25,Though meeting new Republican support young.
+CC20362,C1084,2024-01-17,"Alexander, Hutchinson and Luna",groceries,51.1,Night step personal sea rest old pick charge.
+CC20363,C1021,2024-12-31,"Elliott, Morrison and Goodwin",electronics,1925.0,Suffer agency nor remain threat him.
+CC20364,C1030,2024-07-06,Carpenter Ltd,restaurants,1648.19,Again leg field activity sing hour offer.
+CC20365,C1094,2025-03-07,Smith-Wilson,electronics,1717.9,Hospital about write sport former bag news.
+CC20366,C1011,2024-03-30,"Miller, Hart and Johnson",clothing,869.55,Night do kid apply any energy her.
+CC20367,C1014,2024-07-13,"Walsh, Cobb and Torres",utilities,59.22,Choose great tree deal front.
+CC20368,C1022,2024-02-12,"Erickson, Hebert and Harvey",groceries,1191.81,Director beyond situation cell edge three tend.
+CC20369,C1034,2024-06-08,Wilson Group,electronics,1479.35,School person purpose animal task language.
+CC20370,C1049,2023-10-24,Townsend-Haynes,travel,645.34,Service commercial generation without.
+CC20371,C1022,2025-03-14,"Rhodes, Davis and Ortiz",restaurants,1319.61,Space plant six agree draw speech.
+CC20372,C1078,2023-11-14,Ray Group,clothing,1016.21,Could force subject enter challenge once raise data.
+CC20373,C1075,2023-10-12,Cabrera-Hart,utilities,1881.75,On bar improve material.
+CC20374,C1029,2024-06-14,"Griffith, Ramirez and Garcia",groceries,117.77,Of walk plant sign.
+CC20375,C1077,2024-01-03,"Sanders, Beck and Young",groceries,1296.3,What unit visit pay.
+CC20376,C1082,2023-12-04,"Ramos, Hickman and Rodgers",travel,1009.9,Off plant commercial address artist strong page.
+CC20377,C1053,2025-08-30,Patton-Harmon,electronics,670.17,Push kid write box history culture sometimes happy.
+CC20378,C1080,2025-04-19,Castaneda PLC,clothing,386.24,General culture others general recently way.
+CC20379,C1007,2024-06-23,Middleton Group,electronics,1943.32,Huge this many term reflect.
+CC20380,C1040,2025-04-22,Williams-Espinoza,utilities,1496.58,Treat station suffer book.
+CC20381,C1062,2025-04-01,Levine-Armstrong,restaurants,1221.85,House market tree ahead.
+CC20382,C1042,2024-09-16,"Bell, Morris and Walker",electronics,1792.67,Stay fall young tree yet option my serve.
+CC20383,C1009,2023-11-12,"Bauer, Villarreal and Hunter",restaurants,1610.27,Begin recently laugh same way process.
+CC20384,C1020,2025-02-04,Hunter Group,groceries,1029.74,Reveal knowledge memory number crime reduce area.
+CC20385,C1071,2024-04-12,"Gray, Cook and Reyes",utilities,815.07,Lawyer light run decision not worker.
+CC20386,C1057,2024-04-02,Charles-Clark,restaurants,1345.18,Assume small total then action laugh.
+CC20387,C1077,2024-03-02,Ortega PLC,restaurants,1534.91,Perform much special modern major meet southern.
+CC20388,C1087,2024-03-09,Lee PLC,utilities,1627.69,Direction he democratic me must whose pressure.
+CC20389,C1099,2023-12-10,Fitzpatrick PLC,groceries,1173.21,Explain book stop letter response.
+CC20390,C1014,2025-08-03,Cunningham-Palmer,travel,1496.04,Particular building end return ever try.
+CC20391,C1061,2025-01-29,"Garcia, Jones and Cole",electronics,1376.03,Dark life girl sister main us.
+CC20392,C1012,2025-04-24,Johnson LLC,utilities,1531.05,Represent tonight although middle hot affect.
+CC20393,C1033,2024-05-20,Noble-Cruz,electronics,1572.4,Event time you man so officer.
+CC20394,C1081,2024-01-23,"Smith, Zimmerman and Strickland",electronics,1023.07,Alone brother herself very.
+CC20395,C1068,2025-08-04,Hampton and Sons,groceries,26.07,Someone boy explain especially tell risk decade candidate.
+CC20396,C1077,2024-11-24,Jennings and Sons,groceries,1947.69,Voice enjoy story land firm tax.
+CC20397,C1017,2025-02-19,Alvarez-Rodriguez,groceries,822.12,Between animal raise bring those push threat answer.
+CC20398,C1061,2024-11-19,"Brown, Murphy and Warren",groceries,633.45,Line kid force wide house water.
+CC20399,C1017,2025-03-21,Hanson-Harris,groceries,1408.78,Name effect lot give people.
+CC20400,C1082,2025-08-11,"Burns, White and Bruce",clothing,1501.51,Range recognize much light.
+CC20401,C1028,2024-11-24,Scott Group,groceries,426.38,Brother join positive least music.
+CC20402,C1003,2025-07-03,Carpenter Inc,groceries,1202.17,Impact would general wall about.
+CC20403,C1051,2024-03-22,Schmitt-Robbins,travel,1124.93,Group carry foot mission.
+CC20404,C1090,2024-11-06,"Miller, Dennis and Mclaughlin",electronics,819.32,Time keep herself myself policy bring.
+CC20405,C1069,2023-09-14,"Moyer, Butler and Clark",groceries,1487.97,Growth skill unit notice memory.
+CC20406,C1057,2025-03-25,Williams LLC,clothing,299.36,Focus long sea teacher among.
+CC20407,C1016,2024-05-25,"Silva, Gomez and Salazar",utilities,422.56,Know politics food month bit.
+CC20408,C1021,2024-11-12,Weber PLC,groceries,1157.34,Evening avoid cup thousand possible condition station.
+CC20409,C1036,2025-07-14,Gallegos-Lee,electronics,512.9,Say us level why.
+CC20410,C1051,2023-09-29,"Wade, Morris and Thomas",utilities,27.9,Prepare player east including consumer your edge.
+CC20411,C1081,2023-09-16,"Ramirez, Johnson and Smith",groceries,1051.7,Development article election machine.
+CC20412,C1099,2023-09-18,"Palmer, Rodriguez and Hanson",groceries,1753.65,Economic pay back play language have hear citizen.
+CC20413,C1081,2025-03-29,"Moore, Harris and Glenn",electronics,317.47,With more price material week market moment.
+CC20414,C1018,2024-11-10,Barnes-Gonzalez,clothing,277.82,Vote out them few stock.
+CC20415,C1014,2025-01-08,Garcia Inc,electronics,22.79,Personal fast answer development.
+CC20416,C1041,2025-03-18,Marsh Ltd,travel,667.23,Soon hand share leg.
+CC20417,C1096,2025-03-24,"Gomez, English and Montgomery",groceries,181.41,Avoid draw western away American course response.
+CC20418,C1026,2024-07-04,"Bell, Stone and Carter",electronics,907.62,Bit what provide training allow until.
+CC20419,C1087,2025-02-08,Schneider Inc,restaurants,946.34,Paper discover place group force agreement.
+CC20420,C1067,2025-02-10,Little and Sons,groceries,170.93,When find east east wrong time.
+CC20421,C1056,2024-12-22,Rodriguez-Marshall,restaurants,1555.33,Much force team other alone learn size industry.
+CC20422,C1069,2024-01-09,Hartman-Garcia,restaurants,1107.05,Place million well health table this.
+CC20423,C1066,2025-05-06,Warner-Gardner,groceries,1813.84,More federal suffer rich.
+CC20424,C1018,2025-04-08,Walters-Curtis,utilities,805.23,Base teach behavior will much.
+CC20425,C1065,2023-09-14,Jones-Bright,electronics,304.9,Goal nation somebody sometimes.
+CC20426,C1009,2025-05-06,Mccarthy-Fox,travel,320.23,Likely rate than.
+CC20427,C1049,2024-10-19,"Smith, Rogers and Brooks",utilities,1134.76,Report certain possible him.
+CC20428,C1085,2023-09-30,Wilson-Carroll,groceries,1053.48,Foot your art return college country peace chair.
+CC20429,C1072,2024-05-26,"Marshall, Leach and Jackson",electronics,710.94,In book buy information life near.
+CC20430,C1085,2024-05-13,Howard Inc,utilities,959.15,Study fast wrong carry experience budget bit.
+CC20431,C1075,2024-10-04,Lane and Sons,electronics,1490.42,Rather theory really culture.
+CC20432,C1079,2025-01-06,Moyer Group,restaurants,1029.7,Various return lay cup leg.
+CC20433,C1029,2023-11-11,Huffman PLC,clothing,84.81,Number stop city mean simple focus.
+CC20434,C1049,2025-08-23,Gill and Sons,electronics,691.11,Relationship say poor church positive air collection.
+CC20435,C1065,2024-03-17,Johnson-Robertson,groceries,507.04,Available public begin wear surface cup.
+CC20436,C1009,2024-07-21,Thomas-Ramirez,restaurants,230.79,Two school structure human southern huge player.
+CC20437,C1055,2024-09-28,Johnson Inc,clothing,495.35,Half however suddenly begin health dark while.
+CC20438,C1003,2024-06-18,Walker-Vasquez,clothing,1020.54,Court place history drop.
+CC20439,C1005,2025-04-12,Robertson Ltd,clothing,723.81,Investment partner kid network truth property.
+CC20440,C1046,2024-06-12,Clark-Miller,travel,688.41,Camera authority dark wrong inside write talk painting.
+CC20441,C1062,2024-01-15,"Martin, Rowe and Sanchez",restaurants,1514.39,Action because door teacher hold school leg.
+CC20442,C1053,2024-01-12,Moore-Cook,groceries,1624.22,Represent general site how key camera.
+CC20443,C1098,2025-07-18,"Bryant, Rogers and Lopez",travel,1312.16,Young although end.
+CC20444,C1061,2025-08-02,Smith Group,utilities,1453.28,Direction dream candidate recent professional professional remain.
+CC20445,C1044,2025-02-27,"Williams, Frost and Le",utilities,1607.57,Prepare political though side than tonight dog.
+CC20446,C1092,2023-11-09,"Reed, Flores and Morrison",travel,1844.82,Strategy base black cold near mission involve.
+CC20447,C1097,2025-04-09,Dawson-Thomas,utilities,965.67,Study store whom response character.
+CC20448,C1084,2024-11-01,Morrison LLC,travel,1667.86,Need media first seven language.
+CC20449,C1089,2024-10-27,"Waters, Sheppard and Velasquez",electronics,1373.05,Indicate step imagine catch parent seem against.
+CC20450,C1074,2025-01-15,Thomas Ltd,restaurants,433.93,Serious method contain direction set you question.
+CC20451,C1003,2024-05-10,Forbes PLC,utilities,913.93,Outside cover happy office myself himself.
+CC20452,C1079,2023-09-05,Williams LLC,clothing,1653.52,Which thing they it improve.
+CC20453,C1085,2024-01-08,Mercado Group,travel,1227.03,Wish area quickly then financial people prove can.
+CC20454,C1040,2025-06-04,Ross Inc,clothing,662.24,Play exactly those fear subject particularly.
+CC20455,C1055,2024-06-25,Smith PLC,clothing,1541.2,Instead late put method job small much.
+CC20456,C1080,2025-02-06,Cardenas LLC,travel,1029.68,Pretty firm begin understand else glass.
+CC20457,C1050,2024-01-04,Huffman PLC,travel,743.58,Certain step similar point prove.
+CC20458,C1037,2024-07-17,Hernandez-Mann,travel,430.63,Free beyond pay.
+CC20459,C1030,2025-06-16,Moore Ltd,clothing,1178.44,Easy outside question practice.
+CC20460,C1047,2024-01-03,Duarte PLC,restaurants,483.95,Cause father vote writer.
+CC20461,C1043,2023-11-14,"Booker, Williams and Morrison",clothing,1269.95,Forget eight look.
+CC20462,C1041,2024-01-18,Mason LLC,travel,296.42,Sea avoid goal view few type feeling.
+CC20463,C1097,2024-06-08,Cruz-Williams,electronics,1105.28,Note and star individual.
+CC20464,C1068,2024-02-13,Vang-Green,utilities,1423.84,Close sister drug yeah unit.
+CC20465,C1014,2023-09-03,Jenkins and Sons,restaurants,964.85,Pressure forget shake wish employee whatever.
+CC20466,C1088,2025-06-04,Beard-Boyer,travel,1204.65,Bring sit she young.
+CC20467,C1077,2024-07-29,Myers PLC,travel,1422.72,Produce total those draw.
+CC20468,C1011,2024-05-15,"Obrien, Lane and Harper",clothing,998.5,Job rule protect.
+CC20469,C1026,2024-08-22,Franco Ltd,electronics,785.47,Drive within rock short hard would whom.
+CC20470,C1065,2024-04-05,"Stanley, White and Nunez",travel,714.36,Positive there woman tell music movie section.
+CC20471,C1052,2025-08-25,Fox Ltd,electronics,1464.43,Shake moment north himself build town.
+CC20472,C1005,2023-12-10,Wells-Russell,travel,1913.62,Animal save world condition industry memory north.
+CC20473,C1077,2024-01-08,"Sullivan, Hill and Thomas",travel,1695.33,Represent consider quality American wrong.
+CC20474,C1058,2025-01-22,Nelson PLC,groceries,509.2,Hair create student.
+CC20475,C1036,2025-03-26,Holmes-Holt,utilities,978.02,Executive door benefit include song oil.
+CC20476,C1040,2024-08-25,Gallegos-Thomas,utilities,1488.04,That practice officer police.
+CC20477,C1089,2025-01-17,Pitts PLC,utilities,776.88,Institution law area inside.
+CC20478,C1014,2024-07-08,Lopez Inc,groceries,675.94,Realize whom picture example.
+CC20479,C1020,2024-11-29,Griffin-Torres,electronics,1233.83,Now reduce myself street scientist.
+CC20480,C1071,2024-03-31,"Long, Russell and Long",restaurants,624.67,Early find sometimes relationship already.
+CC20481,C1053,2025-07-02,Howard Group,restaurants,756.2,Charge Democrat move human country blood yes.
+CC20482,C1086,2025-03-07,"Gonzalez, Brown and Baker",groceries,1455.12,Cause service can treatment ground outside language good.
+CC20483,C1080,2024-06-17,Hopkins and Sons,groceries,1017.2,Mean activity team democratic pay better.
+CC20484,C1002,2025-08-01,"Williams, Owen and Jones",utilities,1169.22,Treatment new much imagine performance.
+CC20485,C1042,2025-07-14,"Gould, Simpson and Clark",utilities,1635.2,Tonight score but talk job southern.
+CC20486,C1012,2023-11-28,Lucero-Fletcher,clothing,477.5,Phone so inside especially family close relationship.
+CC20487,C1005,2025-04-19,Nelson-Henry,groceries,1648.94,Last culture audience evidence sell society someone economic.
+CC20488,C1093,2025-07-10,"Nguyen, Lindsey and Rogers",electronics,192.04,Course catch degree body her throw line.
+CC20489,C1075,2024-03-22,"Smith, Harris and Thomas",restaurants,1422.47,For discussion course kitchen listen seven draw upon.
+CC20490,C1098,2024-04-27,Kane Inc,clothing,1885.17,Simply teach garden space.
+CC20491,C1078,2025-02-24,Richard Group,clothing,1917.22,Inside unit mention blue style.
+CC20492,C1025,2024-10-25,Wilson and Sons,electronics,598.01,Physical think crime wind hope college executive.
+CC20493,C1023,2025-02-22,Butler LLC,clothing,1902.85,Outside fall can college.
+CC20494,C1017,2024-06-28,Fisher PLC,travel,1753.1,Idea my sometimes ago.
+CC20495,C1033,2024-01-22,Waters Inc,restaurants,1579.08,Tv try factor manager against may factor.
+CC20496,C1018,2024-10-30,"Perkins, Ramirez and Alexander",utilities,1236.26,Actually marriage table statement us.
+CC20497,C1026,2024-05-26,"Wallace, Moore and Garcia",groceries,281.34,Star treatment indeed top.
+CC20498,C1084,2024-07-17,Wright-Jackson,restaurants,1948.39,To plant candidate certain.
+CC20499,C1023,2024-04-17,Payne and Sons,travel,1742.07,Use accept into notice fund.
